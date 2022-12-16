@@ -3,10 +3,10 @@
 clear; close all; clc
 
 % change path to where the script is
-cd('C:\Users\al063242\OneDrive - University of Central Florida\Bathtub Matlab\Example')
+cd('MatFlood\Example')
 
 % add the toolbox of the model 
-addpath(genpath('C:\Users\al063242\OneDrive - University of Central Florida\Bathtub Matlab\toolbox'))
+addpath(genpath('MatFlood\toolbox'))
 
 %% input parameters
 

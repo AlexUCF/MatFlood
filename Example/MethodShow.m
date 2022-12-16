@@ -2,11 +2,11 @@
 
 clear; close all; clc
 
-% Change path to where the script is
-cd('C:\Users\al063242\OneDrive - University of Central Florida\Bathtub Matlab\Example')
+% change path to where the script is
+cd('MatFlood\Example')
 
-% Add MatFlood toolbox
-addpath(genpath('C:\Users\al063242\OneDrive - University of Central Florida\Bathtub Matlab\toolbox'))
+% add the toolbox of the model 
+addpath(genpath('MatFlood\toolbox'))
 
 %% Input parameters
 
